@@ -78,6 +78,12 @@ C:\md-setup-attachment-dirs>
 - [ini](https://www.npmjs.com/package/ini)
 - [node-mdaemon-api](https://www.npmjs.com/package/node-mdaemon-api)
 
+## Stay in touch
+
+- Author - Emanuele Aliberti
+- Website - [mtka.eu](https://mtka.eu/software/node-mdaemon-api)
+- Matrix - [mdaemon-dev](https://matrix.to/#/#mdaemon-dev:matrix.org)
+
 ## Legal disclaimer
 
 MDaemon® is a trademark of [MDaemon Technologies, Ltd.](https://mdaemon.com/pages/about-us)
