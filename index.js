@@ -1,6 +1,6 @@
 // In all "Hiwater.mrk" databases that match
 //
-// $APP_PATH$\USERS\$RECIPIENTDOMAIN$\$RECIPIENTMAILBOX$\DOCUMENTS.IMAP\X-ATTACHMENTS.IMAP\$SENDER$.IMAP\Hiwater.mrk
+// $USER_MAILBOX$\DOCUMENTS.IMAP\X-ATTACHMENTS.IMAP\$SENDER$.IMAP\Hiwater.mrk
 //
 // force /Groupware/FolderClass to "IPF.Document"
 //
